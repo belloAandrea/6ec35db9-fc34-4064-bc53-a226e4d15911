@@ -1,0 +1,1 @@
+Create a toggle switch component that allows users to switch between dark and light themes. Use CSS variables for colors to ensure easy theme switching. Add transition effects when switching themes for a smoother user experience. Store the user’s preference in local storage to maintain consistency across sessions.

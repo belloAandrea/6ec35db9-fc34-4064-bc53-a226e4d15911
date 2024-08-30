@@ -1,0 +1,1 @@
+Employ CSS media queries to ensure text and buttons are easily readable on mobile devices by scaling them appropriately. Use responsive units (like 'rem' or '%') for font sizes and margins to allow for text to reflow on different screen sizes. Ensure images and grids are fluid, using max-width and flex properties.

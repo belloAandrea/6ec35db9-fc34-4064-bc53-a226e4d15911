@@ -1,0 +1,1 @@
+Create a reusable button component that accepts props for variants (primary, secondary), sizes (small, medium, large), and added states (hover, focus). Incorporate a prop for accessibility to include aria-label when necessary. Ensure buttons have hover and active styling for better interaction feedback.

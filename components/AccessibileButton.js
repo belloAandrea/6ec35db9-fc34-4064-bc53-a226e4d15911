@@ -1,0 +1,1 @@
+Ensure all buttons have descriptive aria-labels. Implement focus outlines and consider a 4.5:1 contrast ratio for text against the background to improve readability. Include keyboard navigation support for interactive elements and use 'tabindex' to manage focus order.
